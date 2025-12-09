@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "charisma"]
+	path = charisma
+	url = https://github.com/shawntz/charisma
 [submodule "eyeris"]
 	path = eyeris
 	url = https://github.com/shawntz/eyeris

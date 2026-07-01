@@ -8,3 +8,6 @@
 [submodule "eyeris"]
 	path = eyeris
 	url = https://github.com/shawntz/eyeris
+[submodule "reaborn"]
+	path = reaborn
+	url = https://github.com/shawntz/reaborn
